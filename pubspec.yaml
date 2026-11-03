@@ -1,0 +1,35 @@
+name: flutter1
+description: "Aplikasi Katalog Emping NYAMPING."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+# 👇 CUKUP SATU TULISAN flutter: DI SINI
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/nyamping_transparan.png
+    - assets/emping.jpg
+    - assets/emping1.jpeg
+    - assets/emping2.jpg
+    - assets/emping3.jpg
+    - assets/proses1.jpg
+    - assets/proses2.jpg
+    - assets/proses3.jpg
+    - assets/proses4.jpg
+    - assets/proses5.jpg
+    - assets/limpung.jpg
