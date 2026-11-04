@@ -18,7 +18,7 @@ dev_dependencies:
 
   flutter_lints: ^6.0.0
 
-# 👇 CUKUP SATU TULISAN flutter: DI SINI
+# Ini bagian yang tadi hilang di file kamu
 flutter:
   uses-material-design: true
   assets:
